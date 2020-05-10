@@ -1,4 +1,4 @@
-// drawing based on https://github.com/bulenkov/2048
+
 package games.ui
 
 import board.Direction
